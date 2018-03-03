@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "AJAX and finally Debugging"
-date:       2018-03-03 03:16:18 +0000
+title:      "AJAX and Finally Debugging"
+date:       2018-03-02 22:16:18 -0500
 permalink:  ajax_and_finally_debugging
 ---
 
